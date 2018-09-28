@@ -8,5 +8,4 @@ end
 
 def input_to_index(user_input)
   input_to_index(user_input).to_i 
-  input_to_index(user_input) - 1
 end
