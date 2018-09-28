@@ -9,12 +9,3 @@ end
 def input_to_index(input)
   puts "1", "2", "3", "4", "5", "6", "7", "8", "9"
 end
-
-def move
-  def update_array_at_with(array,index, value)
-    array[index] = value
-  end
-  gets.display_board(board)
-  gets.input_to_index(input)
-  gets.
-end
