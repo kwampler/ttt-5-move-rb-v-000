@@ -9,5 +9,4 @@ end
 def input_to_index(user_input)
   input_to_index(user_input).to_i 
   input_to_index(user_input) - 1
-  puts "1", "2", "3", "4", "5", "6", "7", "8", "9"
 end
