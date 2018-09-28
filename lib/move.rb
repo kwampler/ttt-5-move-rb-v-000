@@ -12,5 +12,6 @@ end
 
 def move (array, index, value)
 board = [" ", " ", " "]
-    array[index] = value
+array[index] = value
+array << "a new thing at the end of the array"   
 end
